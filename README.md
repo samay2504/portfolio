@@ -27,7 +27,7 @@ Hello! Welcome to my portfolio. This is where I share information about myself, 
 
 ```bash
 # Clone this repository
-$ git clone (https://github.com/samay2504/portfolio)
+$ git clone https://github.com/samay2504/portfolio
 
 # Enter the cloned repository and install dependencies
 $ npm install
