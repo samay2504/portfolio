@@ -40,11 +40,12 @@ export const Projects = () => {
   const isInView = useInView(ref)
   const controls = useAnimation()
 
-  useEffect(() => {
-    if (isInView) {
-      controls.start('visible')
-    }
-  }, [isInView, controls])
+// eslint-disable-next-line react-hooks/exhaustive-deps
+useEffect(() => {
+  if (isInView) {
+    controls.start('visible')
+  }
+}, [isInView])
 
   return (
     <SectionContainer id="projects" title="Projects">
