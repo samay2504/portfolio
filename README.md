@@ -6,7 +6,7 @@
 
 Hello! Welcome to my portfolio. This is where I share information about myself, my projects, and my skills related to web development. Using modern technologies, this project is also a demonstration of my technical abilities.
 
-[Click here to access the live project](https://grazziotti-portfolio.vercel.app/)
+[Click here to access the live project](https://portfolio-samay-mehars-projects.vercel.app/)
 
 ## 🛠 Technologies Used
 
