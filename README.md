@@ -1,14 +1,14 @@
 # 📁 Portfolio
 
-![](/public/screenshot.png)
+![fg](https://github.com/user-attachments/assets/203b8dec-4c9d-44c4-bfa9-c54dad22fd56)
 
-## 📄 Descrição
+## 📄 Description
 
-Olá! Bem-vindo ao meu portfólio. Aqui é onde compartilho informações sobre mim, projetos e habilidades relacionadas ao desenvolvimento web. Utilizando tecnologias modernas, este projeto também é uma demonstração das minhas habilidades técnicas.
+Hello! Welcome to my portfolio. This is where I share information about myself, my projects, and my skills related to web development. Using modern technologies, this project is also a demonstration of my technical abilities.
 
-[Clique para acessar o projeto no ar](https://grazziotti-portfolio.vercel.app/)
+[Click here to access the live project](https://grazziotti-portfolio.vercel.app/)
 
-## 🛠 Tecnologias Utilizadas
+## 🛠 Technologies Used
 
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -23,21 +23,21 @@ Olá! Bem-vindo ao meu portfólio. Aqui é onde compartilho informações sobre 
 - [Commitizen](https://github.com/commitizen/cz-cli)
 - [Husky](https://github.com/typicode/husky)
 
-## 🚀 Como Executar
+## 🚀 How to Run
 
 ```bash
-# Clone este repositório
-$ git clone https://github.com/grazziotti/portfolio
+# Clone this repository
+$ git clone (https://github.com/samay2504/portfolio)
 
-# Entre no repositório clonado e instale as  dependências
+# Enter the cloned repository and install dependencies
 $ npm install
 
-# Execute o projeto
+# Run the project
 $ npm run dev
 ```
 
-## 👤 Autor
+## 👤 Author
 
 <img style="border-radius: 50px" alt="Samay Mehar" title="Samay Mehar" src="https://avatars.githubusercontent.com/grazziotti" height="100" width="100" />
 
-- [Linkedin](https://www.linkedin.com/in/samay-m-55058628a/)
+- [LinkedIn](https://www.linkedin.com/in/samay-m-55058628a/)
