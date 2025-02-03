@@ -38,6 +38,6 @@ $ npm run dev
 
 ## 👤 Author
 
-<img style="border-radius: 50px" alt="Samay Mehar" title="Samay Mehar" src="https://avatars.githubusercontent.com/grazziotti" height="100" width="100" />
+<img style="border-radius: 50px" alt="Samay Mehar" title="Samay Mehar" src="https://avatars.githubusercontent.com/u/120591427?s=400&u=fc125b1ca3cc60ca26912eb874ab5b4743583b3b&v=4" height="100" width="100" />
 
 - [LinkedIn](https://www.linkedin.com/in/samay-m-55058628a/)
