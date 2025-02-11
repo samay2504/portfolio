@@ -6,7 +6,7 @@ import { Mail, FileText } from 'lucide-react'
 
 export const ContactButtons = () => {
   const email = 'samay.m2504@gmail.com'
-  const resumeLink = 'https://drive.google.com/file/d/1bkY-UAsArAKa49MJGUIF2foFaAjrq9Aa/view?usp=drive_link'
+  const resumeLink = 'https://drive.google.com/file/d/1K2dq7f4IYSXJ7tC9xmRboXoTdbi4cfbe/view?usp=sharing'
   const [copied, setCopied] = useState(false)
 
   const handleCopyEmail = () => {
