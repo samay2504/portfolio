@@ -16,6 +16,15 @@ export type projectType = {
 }
 
 export const projectsData: projectType[] = [
+ {
+    name: 'Company News Analyzer',
+    repo: 'https://github.com/samay2504/nlp-news-analyzer',
+    url: '',
+    image: 'https://i.ibb.co/ynYGXypt/f.jpg',
+    description:
+      'The NLP News Analyzer, utilizing 100% Python, excels in advanced Natural Language Processing (NLP), achieving over 90% sentiment analysis accuracy. It processes extensive news datasets efficiently, leveraging machine learning and data visualization for insightful analysis.',
+    tags: ['nlp', 'streamlit', 'python', 'fast-api', 'transformers', 'soundfile']
+  },
   {
     name: 'Spam Message Detector',
     repo: 'https://github.com/samay2504/NLP---Deployment',
