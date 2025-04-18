@@ -26,6 +26,15 @@ export const projectsData: projectType[] = [
     tags: ['nlp', 'streamlit', 'python', 'fast-api', 'transformers', 'soundfile']
   },
   {
+    name: 'OdourGNN',
+    repo: 'https://github.com/samay2504/Odour-Detection-using-GraphNN',
+    url: '',
+    image: 'https://i.ibb.co/j9QYqT4D/fh.png',
+    description:
+      'Graph Isomorphism Network based molecular odor predictor given their chemical structure, achieving accuracy upto 96% in Pytorch Geometric, Python. Performed training, inference, hyperparameter tuning using WandB. Used conditional entropy & mean field variational approximation to derive causal reasoning and projected saliency masks on molecules.',
+    tags: ['Pytorch Geometric', 'python', 'graph NN', 'plotly', 'wandb']
+  },
+  {
     name: 'Spam Message Detector',
     repo: 'https://github.com/samay2504/NLP---Deployment',
     url: '',
