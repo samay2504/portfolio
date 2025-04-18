@@ -45,6 +45,15 @@ export const projectsData: projectType[] = [
     tags: ['html', 'css', 'python', 'scikit-learn', 'aws']
   },
   {
+    name: 'Image Segmantation using GMM-EM',
+    repo: 'https://github.com/samay2504/Image-Segment',
+    url: '',
+    image: 'https://i.ibb.co/TqcmCkwD/dd.png',
+    description:
+      'Extracted pixel-level color and texture features using local binary patterns and used the Expectation Maximization algorithm to fit a Gaussian Mixture Model for Image Segmentation , achieving a Jaccard Index 0.92',
+    tags: ['python', 'gmm', 'Image Segmentation', 'opencv', 'scikit-learn']
+  },
+  {
     name: 'Server Client Simulator',
     repo: 'https://github.com/samay2504/File-sharing-system/tree/main',
     url: '',
